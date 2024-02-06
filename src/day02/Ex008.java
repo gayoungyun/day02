@@ -47,7 +47,6 @@ public class Ex008 {
 		weight2 = input.nextInt();
 		int weight3 = 600;
 		double weight4 = 460.48;
-		weight = weight1 + weight2;
 		weight4 = weight3-(weight1 + weight2);
 	
 		
