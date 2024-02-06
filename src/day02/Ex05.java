@@ -19,6 +19,9 @@ public class Ex05 {
 		System.out.println("등급\t : "+ch);
 		
 		
+		
+		
+		
 	}
 
 }
